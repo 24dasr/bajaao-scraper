@@ -1,0 +1,39 @@
+name: Scrape Guitars
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run at UTC 00:00 (Daily)
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install Dependencies
+      run: npm install --legacy-peer-deps
+      
+    - name: Run Scraper
+      run: node scraper/index.js
+      
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/guitars.json
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "data: Update scraped guitar prices" && git push)
