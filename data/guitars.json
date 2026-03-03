@@ -114,8 +114,8 @@
     "currentPrice": 12299,
     "originalPrice": 12299,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-transparent-blue-indian-laurel-vault-rg1-soloist-premium-electric-guitar-1093197047_540x.jpg?v=1769759100&width=1500",
-    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=40337853907123",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-transparent-black-walnut-vault-rg1-soloist-premium-electric-guitar-29904527425715_540x.jpg?v=1769755704&width=1500",
+    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=40337845420211",
     "inStock": true,
     "priceHistory": [
       {
@@ -147,16 +147,20 @@
     "id": "fender-squier-affinity-series-stratocaster-electric-guitar-indian-laurel-fretboard",
     "name": "Fender Squier Affinity Series Stratocaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 26129,
-    "originalPrice": 26129,
+    "currentPrice": 28348,
+    "originalPrice": 28348,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-olympic-white-maple-fender-squier-affinity-series-stratocaster-electric-guitar-1210055985_540x.jpg?v=1769755373&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-affinity-series-stratocaster-electric-guitar-indian-laurel-fretboard?variant=41381582602419",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-color-sunburst-indian-laurel-fender-squier-affinity-series-stratocaster-electric-guitar-1210055997_540x.jpg?v=1769755373&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-affinity-series-stratocaster-electric-guitar-indian-laurel-fretboard?variant=16328991965256",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T10:34:35.868Z",
         "price": 26129
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 28348
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -165,11 +169,11 @@
     "id": "cort-g115se-6-string-electric-guitar",
     "name": "Cort G115SE 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 12900,
-    "originalPrice": 12900,
+    "currentPrice": 13250,
+    "originalPrice": 13250,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-white-cort-g115se-6-string-electric-guitar-1106227050_540x.jpg?v=1768445093&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-g115se-6-string-electric-guitar?variant=44347357266099",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-black-cort-g115se-6-string-electric-guitar-1106226987_540x.jpg?v=1768444950&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-g115se-6-string-electric-guitar?variant=44347357135027",
     "inStock": true,
     "priceHistory": [
       {
@@ -179,6 +183,10 @@
       {
         "date": "2026-03-02T02:30:30.761Z",
         "price": 12900
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 13250
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -241,16 +249,20 @@
     "id": "ibanez-grx70qa-electric-guitar",
     "name": "Ibanez GRX70QA RG Gio Series 6-String Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 26646,
-    "originalPrice": 26646,
+    "currentPrice": 24900,
+    "originalPrice": 24900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-transparent-black-sunburst-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1177111491_540x.jpg?v=1769754964&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=3101874815000",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-transparent-blue-burst-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1177111512_540x.jpg?v=1769754964&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=3101874782232",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T10:34:35.868Z",
         "price": 26646
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 24900
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -259,16 +271,20 @@
     "id": "fender-player-ii-stratocaster-6-string-electric-guitar",
     "name": "Fender Player II Stratocaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 90673,
-    "originalPrice": 90673,
+    "currentPrice": 88350,
+    "originalPrice": 88350,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-birch-green-hss-rosewood-fender-player-ii-stratocaster-6-string-electric-guitar-1175684581_540x.png?v=1769755163&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-stratocaster-6-string-electric-guitar?variant=44108423954611",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-polar-white-sss-maple-fender-player-ii-stratocaster-6-string-electric-guitar-1102713751_540x.jpg?v=1769755163&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-stratocaster-6-string-electric-guitar?variant=44303638954163",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T10:34:35.868Z",
         "price": 90673
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 88350
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -313,16 +329,20 @@
     "id": "fender-squier-debut-telecaster-electric-guitar",
     "name": "Fender Squier Debut Telecaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 16500,
-    "originalPrice": 16500,
+    "currentPrice": 17999,
+    "originalPrice": 17999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-2-tone-sunburst-single-fender-squier-debut-telecaster-electric-guitar-1176056377_540x.png?v=1768248249&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar?variant=43867009908915",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-black-bundle-fender-squier-debut-telecaster-electric-guitar-1108172256_540x.jpg?v=1768481420&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar?variant=44367544516787",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T10:34:35.868Z",
         "price": 16500
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 17999
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -580,8 +600,8 @@
     "currentPrice": 23693,
     "originalPrice": 23693,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-california-blue-indian-laurel-pro-fender-squier-sonic-telecaster-6-string-electric-guitar-1127982862_540x.jpg?v=1769755298&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-electric-guitar?variant=44405144551603",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-black-maple-pro-fender-squier-sonic-telecaster-6-string-electric-guitar-1127982859_540x.jpg?v=1769755298&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-electric-guitar?variant=44404260536499",
     "inStock": true,
     "priceHistory": [
       {
@@ -689,11 +709,11 @@
     "id": "fender-squier-sonic-mustang-electric-guitar",
     "name": "Fender Squier Sonic Mustang 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 16499,
-    "originalPrice": 16499,
+    "currentPrice": 23693,
+    "originalPrice": 23693,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-2-color-sunburst-single-fender-squier-sonic-mustang-6-string-electric-guitar-1209649931_540x.jpg?v=1769755554&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-mustang-electric-guitar?variant=42587692892339",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-torino-red-pro-fender-squier-sonic-mustang-6-string-electric-guitar-1127982864_540x.jpg?v=1769755554&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-mustang-electric-guitar?variant=44404297695411",
     "inStock": true,
     "priceHistory": [
       {
@@ -703,6 +723,10 @@
       {
         "date": "2026-03-01T02:41:14.967Z",
         "price": 16499
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 23693
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -909,16 +933,20 @@
     "id": "fender-player-ii-telecaster-6-string-electric-guitar",
     "name": "Fender Player II Telecaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 88350,
-    "originalPrice": 88350,
+    "currentPrice": 85500,
+    "originalPrice": 85500,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-color-sunburst-maple-ss-fender-player-ii-telecaster-6-string-electric-guitar-1175678708_540x.png?v=1769755010&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=44108483395763",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-polar-white-rosewood-ss-fender-player-ii-telecaster-6-string-electric-guitar-1175678726_540x.png?v=1769755010&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=44107632312499",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 88350
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 85500
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -963,16 +991,20 @@
     "id": "fender-american-ultra-ii-stratocaster-hss-6-string-electric-guitar",
     "name": "Fender American Ultra II Stratocaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 265050,
-    "originalPrice": 265050,
+    "currentPrice": 258723,
+    "originalPrice": 258723,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-ultraburst-hss-ebony-fender-american-ultra-ii-stratocaster-6-string-electric-guitar-1102607676_540x.jpg?v=1769755024&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-american-ultra-ii-stratocaster-hss-6-string-electric-guitar?variant=44300707299507",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-solar-flare-hss-maple-fender-american-ultra-ii-stratocaster-6-string-electric-guitar-1102607712_540x.jpg?v=1769755024&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-american-ultra-ii-stratocaster-hss-6-string-electric-guitar?variant=44300707397811",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 265050
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 258723
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -984,8 +1016,8 @@
     "currentPrice": 23648,
     "originalPrice": 23648,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sss-fsr-surf-green-maple-fender-squier-sonic-stratocaster-electric-guitar-with-bag-polishing-cloth-strap-tuner-pick-and-ebook-1146055863_540x.jpg?v=1769755069&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-bag-polishing-cloth-strap-tuner-pick-and-ebook?variant=44491267080371",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-hss-fsr-california-blue-maple-fender-squier-sonic-stratocaster-electric-guitar-with-bag-polishing-cloth-strap-tuner-pick-and-ebook-1146139052_540x.jpg?v=1769755069&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-bag-polishing-cloth-strap-tuner-pick-and-ebook?variant=44491267440819",
     "inStock": true,
     "priceHistory": [
       {
@@ -1467,16 +1499,20 @@
     "id": "cort-kx100-electric-guitar",
     "name": "Cort KX100 HT 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 20700,
-    "originalPrice": 20700,
+    "currentPrice": 23620,
+    "originalPrice": 23620,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-black-metallic-single-cort-kx100-ht-6-string-electric-guitar-1178597174_540x.jpg?v=1769755135&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-kx100-electric-guitar?variant=12372333101128",
+    "productUrl": "https://www.bajaao.com/products/cort-kx100-electric-guitar?variant=37575462912179",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 20700
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 23620
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -2079,11 +2115,11 @@
     "id": "fender-squier-sonic-telecaster-6-string-electric-guitar",
     "name": "Fender Squier Sonic Telecaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 22648,
-    "originalPrice": 22648,
+    "currentPrice": 23519,
+    "originalPrice": 23519,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373452580_540x.jpg?v=1772098688&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-6-string-electric-guitar?variant=44782538457267",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373452580-PRO-BUN_540x.jpg?v=1772100888&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-6-string-electric-guitar?variant=44782538490035",
     "inStock": true,
     "priceHistory": [
       {
@@ -2097,6 +2133,10 @@
       {
         "date": "2026-03-02T02:30:30.761Z",
         "price": 22648
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 23519
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -2828,8 +2868,8 @@
     "currentPrice": 57000,
     "originalPrice": 57000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-color-sunburst-indian-laurel-fender-standard-telecaster-6-string-electric-guitar-1207862839_540x.jpg?v=1768409442&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-standard-telecaster-6-string-electric-guitar?variant=45144995725491",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-aqua-marine-metallic-maple-fender-standard-telecaster-6-string-electric-guitar-1207872678_540x.jpg?v=1768409179&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-standard-telecaster-6-string-electric-guitar?variant=45145005359283",
     "inStock": true,
     "priceHistory": [
       {
@@ -3347,11 +3387,11 @@
     "id": "fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook",
     "name": "Fender Squier Sonic Stratocaster Electric Guitar with Guitar Amplifier, Gigbag,Polishing Cloth, Strap, Tuner, Pick, Cable and Ebook",
     "brand": "Fender",
-    "currentPrice": 25999,
-    "originalPrice": 25999,
+    "currentPrice": 21931,
+    "originalPrice": 21931,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sss-fsr-surf-green-maple-fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook-1146500839_540x.jpg?v=1769755079&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493053821107",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-hss-fsr-sonic-gray-maple-fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook-1146554526_540x.jpg?v=1769755079&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493054116019",
     "inStock": true,
     "priceHistory": [
       {
@@ -3361,6 +3401,10 @@
       {
         "date": "2026-03-01T02:41:14.967Z",
         "price": 25999
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 21931
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4053,11 +4097,11 @@
     "id": "newen-stratocaster-6-string-electric-guitar",
     "name": "Newen Stratocaster 6 String Electric Guitar",
     "brand": "Newen",
-    "currentPrice": 18989,
-    "originalPrice": 18989,
+    "currentPrice": 19558,
+    "originalPrice": 19558,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-white-newen-stratocaster-6-string-electric-guitar-29030746030259_540x.jpg?v=1743432443&width=1500",
-    "productUrl": "https://www.bajaao.com/products/newen-stratocaster-6-string-electric-guitar?variant=40010069901491",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-natural-wood-newen-stratocaster-6-string-electric-guitar-29030738231475_540x.jpg?v=1743432426&width=1500",
+    "productUrl": "https://www.bajaao.com/products/newen-stratocaster-6-string-electric-guitar?variant=40010069868723",
     "inStock": true,
     "priceHistory": [
       {
@@ -4067,6 +4111,10 @@
       {
         "date": "2026-03-02T02:30:30.761Z",
         "price": 18989
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 19558
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4187,16 +4235,20 @@
     "id": "schecter-nick-johnston-traditional-6-string-electric-guitar-atomic-green",
     "name": "Schecter Nick Johnston Traditional SSS 6 String Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 85846,
-    "originalPrice": 85846,
+    "currentPrice": 73900,
+    "originalPrice": 73900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-ink-schecter-nick-johnston-traditional-sss-6-string-electric-guitar-1181693334_540x.jpg?v=1768293439&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-6-string-electric-guitar-atomic-green?variant=41580770164915",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-green-schecter-nick-johnston-traditional-sss-6-string-electric-guitar-1180842414_540x.jpg?v=1768264543&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-6-string-electric-guitar-atomic-green?variant=39608721440947",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 85846
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 73900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4205,16 +4257,20 @@
     "id": "epiphone-les-paul-muse-6-strings-solid-body-electric-guitar",
     "name": "Epiphone Les Paul Muse 6-Strings Solid body Electric Guitar",
     "brand": "Epiphone",
-    "currentPrice": 56990,
-    "originalPrice": 56990,
+    "currentPrice": 60120,
+    "originalPrice": 60120,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-purple-passion-metallic-epiphone-les-paul-muse-6-strings-solid-body-electric-guitar-18832976314529_540x.jpg?v=1745661581&width=1500",
-    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-muse-6-strings-solid-body-electric-guitar?variant=36019628703905",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-wanderlust-green-metallic-epiphone-les-paul-muse-6-strings-solid-body-electric-guitar-18832976445601_540x.jpg?v=1745661655&width=1500",
+    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-muse-6-strings-solid-body-electric-guitar?variant=36019628900513",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 56990
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 60120
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4424,8 +4480,8 @@
     "currentPrice": 76900,
     "originalPrice": 76900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-green-schecter-nick-johnston-signature-pt-6-string-electric-guitar-32509836099763_540x.jpg?v=1687337502&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-signature-pt-6-string-electric-guitar?variant=42264388305075",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-ink-schecter-nick-johnston-signature-pt-6-string-electric-guitar-32509836329139_540x.jpg?v=1687337505&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-signature-pt-6-string-electric-guitar?variant=42264388403379",
     "inStock": true,
     "priceHistory": [
       {
@@ -4583,16 +4639,20 @@
     "id": "gibson-les-paul-modern-lite-6-string-electric-guitar",
     "name": "Gibson Les Paul Modern Lite 6 String Electric Guitar",
     "brand": "Gibson",
-    "currentPrice": 147900,
-    "originalPrice": 147900,
+    "currentPrice": 148900,
+    "originalPrice": 148900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-gold-mist-satin-gibson-les-paul-modern-lite-6-string-electric-guitar-34466928066739_540x.jpg?v=1759396579&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451776179",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-tv-wheat-gibson-les-paul-modern-lite-6-string-electric-guitar-34466964570291_540x.jpg?v=1759396579&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451907251",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 147900
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 148900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4727,16 +4787,20 @@
     "id": "vox-mark-v-mini-6-string-electric-guitar",
     "name": "VOX Mark V Mini 6 String Electric Guitar",
     "brand": "VOX",
-    "currentPrice": 23500,
-    "originalPrice": 23500,
+    "currentPrice": 18199,
+    "originalPrice": 18199,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vox-electric-guitars-black-vox-mark-v-mini-6-string-electric-guitar-1072928130_540x.jpg?v=1768336219&width=1500",
-    "productUrl": "https://www.bajaao.com/products/vox-mark-v-mini-6-string-electric-guitar?variant=44072495775923",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vox-electric-guitars-white-vox-mark-v-mini-6-string-electric-guitar-1072928176_540x.jpg?v=1768466992&width=1500",
+    "productUrl": "https://www.bajaao.com/products/vox-mark-v-mini-6-string-electric-guitar?variant=44072495808691",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 23500
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 18199
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -5072,8 +5136,8 @@
     "currentPrice": 12073,
     "originalPrice": 12073,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/aria-electric-guitars-tobacco-sunburst-aria-stg-003spl-6-string-electric-guitar-22867759169715_540x.jpg?v=1689757790&width=1500",
-    "productUrl": "https://www.bajaao.com/products/aria-stg-003spl-electric-guitar?variant=37607176863923",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/aria-electric-guitars-black-aria-stg-003spl-6-string-electric-guitar-19350860136609_540x.jpg?v=1689743933&width=1500",
+    "productUrl": "https://www.bajaao.com/products/aria-stg-003spl-electric-guitar?variant=37607176831155",
     "inStock": true,
     "priceHistory": [
       {
@@ -5775,11 +5839,11 @@
     "id": "schecter-sun-valley-super-shredder-fr-electric-guitar-sea-foam-green",
     "name": "Schecter Sun Valley Super Shredder FR Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 75847,
-    "originalPrice": 75847,
+    "currentPrice": 67900,
+    "originalPrice": 67900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-lambo-orange-schecter-sun-valley-super-shredder-fr-electric-guitar-1181674572_540x.jpg?v=1769754932&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-sun-valley-super-shredder-fr-electric-guitar-sea-foam-green?variant=44053918482611",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-sea-foam-green-schecter-sun-valley-super-shredder-fr-electric-guitar-1181674579_540x.jpg?v=1769754932&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-sun-valley-super-shredder-fr-electric-guitar-sea-foam-green?variant=44053918253235",
     "inStock": true,
     "priceHistory": [
       {
@@ -5789,6 +5853,10 @@
       {
         "date": "2026-03-02T02:30:30.761Z",
         "price": 75847
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 67900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -5872,8 +5940,8 @@
     "currentPrice": 76900,
     "originalPrice": 76900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-green-schecter-nick-johnston-traditional-hss-6-string-electric-guitar-29983690817715_540x.jpg?v=1743240769&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-hss-electric-guitar?variant=41580662751411",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-frost-schecter-nick-johnston-traditional-hss-6-string-electric-guitar-31315004915891_540x.jpg?v=1736336928&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-hss-electric-guitar?variant=41580731007155",
     "inStock": true,
     "priceHistory": [
       {
@@ -6934,8 +7002,8 @@
     "currentPrice": 48517,
     "originalPrice": 48517,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-white-schecter-guitar-research-c-8-deluxe-electric-guitar-8-string-1181669301_540x.jpg?v=1768100779&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-guitar-research-c-8-deluxe-eight-string-electric-guitar?variant=15118416515",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-black-schecter-guitar-research-c-8-deluxe-electric-guitar-8-string-1181669308_540x.jpg?v=1768100838&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-guitar-research-c-8-deluxe-eight-string-electric-guitar?variant=14714017411",
     "inStock": true,
     "priceHistory": [
       {
@@ -7096,8 +7164,8 @@
     "currentPrice": 25362,
     "originalPrice": 25362,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-bundles-black-night-ibanez-grx40-standard-electric-guitar-bundle-30274912911539_540x.jpg?v=1686786168&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-standard-electric-guitar-bundle?variant=12689495261256",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-bundles-metallic-light-blue-ibanez-grx40-standard-electric-guitar-bundle-30336283377843_540x.jpg?v=1687186485&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-standard-electric-guitar-bundle?variant=40936876802227",
     "inStock": true,
     "priceHistory": [
       {
@@ -7183,11 +7251,11 @@
     "id": "fender-squier-sonic-stratocaster-electric-guitar-bundle",
     "name": "Fender Squier Sonic Stratocaster Electric Guitar Bundle With Gigbag, Polishing Cloth, Picks, Strap, Tuner & Ebook",
     "brand": "Fender",
-    "currentPrice": 23648,
-    "originalPrice": 23648,
+    "currentPrice": 19999,
+    "originalPrice": 19999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-fender-squier-sonic-stratocaster-electric-guitar-bundle-with-gigbag-polishing-cloth-picks-strap-tuner-ebook-33562639171763_540x.jpg?v=1694840182&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-bundle?variant=40997449859251",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-fender-squier-sonic-stratocaster-electric-guitar-bundle-with-gigbag-polishing-cloth-picks-strap-tuner-ebook-33562639040691_540x.jpg?v=1694840182&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-bundle?variant=17553855171",
     "inStock": true,
     "priceHistory": [
       {
@@ -7197,6 +7265,10 @@
       {
         "date": "2026-03-02T02:30:30.761Z",
         "price": 23648
+      },
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 19999
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -7658,8 +7730,8 @@
     "currentPrice": 85025,
     "originalPrice": 85025,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-summit-purple-prs-se-silversky-6-string-electric-guitar-with-gigbag-1220908022_540x.jpg?v=1771020169&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-silversky-6-string-electric-guitar-with-gigbag?variant=45275082064051",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-stone-blue-prs-se-silversky-6-string-electric-guitar-with-gigbag-1209999415_540x.jpg?v=1768402638&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-silversky-6-string-electric-guitar-with-gigbag?variant=45164654756019",
     "inStock": true,
     "priceHistory": [
       {
@@ -8046,5 +8118,23 @@
       }
     ],
     "firstSeen": "2026-03-01T02:41:14.967Z"
+  },
+  {
+    "id": "ibanez-s520-electric-guitar",
+    "name": "Ibanez S520 6 String Electric Guitar",
+    "brand": "Ibanez",
+    "currentPrice": 60800,
+    "originalPrice": 60800,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-withered-black-ibanez-s520-6-string-electric-guitar-1178351860_540x.jpg?v=1768178899&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-s520-electric-guitar?variant=15120511427",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-03-03T02:32:50.807Z",
+        "price": 60800
+      }
+    ],
+    "firstSeen": "2026-03-03T02:32:50.807Z"
   }
 ]
