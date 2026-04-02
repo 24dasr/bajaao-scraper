@@ -547,11 +547,11 @@
     "id": "fender-player-ii-stratocaster-6-string-electric-guitar",
     "name": "Fender Player II Stratocaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 88350,
-    "originalPrice": 88350,
+    "currentPrice": 93911,
+    "originalPrice": 93911,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-aquatone-blue-sss-maple-fender-player-ii-stratocaster-6-string-electric-guitar-1175694988_540x.png?v=1769755163&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-stratocaster-6-string-electric-guitar?variant=44191670796467",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-color-sunburst-hss-rosewood-fender-player-ii-stratocaster-6-string-electric-guitar-1175684569_540x.png?v=1769755163&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-stratocaster-6-string-electric-guitar?variant=44165427757235",
     "inStock": true,
     "priceHistory": [
       {
@@ -601,6 +601,10 @@
       {
         "date": "2026-03-28T02:33:52.755Z",
         "price": 88350
+      },
+      {
+        "date": "2026-04-02T02:39:43.693Z",
+        "price": 93911
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -657,11 +661,11 @@
     "id": "fender-squier-debut-telecaster-electric-guitar",
     "name": "Fender Squier Debut Telecaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 16500,
-    "originalPrice": 16500,
+    "currentPrice": 17999,
+    "originalPrice": 17999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-2-tone-sunburst-single-fender-squier-debut-telecaster-electric-guitar-1176056377_540x.png?v=1768248249&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar?variant=43867009908915",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0379670554-BUN_540x.jpg?v=1773215045&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar?variant=44367544615091",
     "inStock": true,
     "priceHistory": [
       {
@@ -731,6 +735,10 @@
       {
         "date": "2026-03-31T02:43:35.079Z",
         "price": 16500
+      },
+      {
+        "date": "2026-04-02T02:39:43.693Z",
+        "price": 17999
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -893,11 +901,11 @@
     "id": "fender-squier-electric-guitar-affinity-series-telecaster",
     "name": "Fender Squier Affinity Series Telecaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 28348,
-    "originalPrice": 28348,
+    "currentPrice": 25139,
+    "originalPrice": 25139,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378203500_540x.jpg?v=1772625967&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=41381483577523",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378200502_540x.jpg?v=1772625967&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=41381479907507",
     "inStock": true,
     "priceHistory": [
       {
@@ -935,6 +943,10 @@
       {
         "date": "2026-04-01T02:55:41.852Z",
         "price": 28348
+      },
+      {
+        "date": "2026-04-02T02:39:43.693Z",
+        "price": 25139
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -1153,11 +1165,11 @@
     "id": "fender-squier-sonic-telecaster-electric-guitar",
     "name": "Fender Squier Sonic Telecaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 22099,
-    "originalPrice": 22099,
+    "currentPrice": 21999,
+    "originalPrice": 21999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-california-blue-indian-laurel-single-fender-squier-sonic-telecaster-6-string-electric-guitar-1211231514_540x.jpg?v=1769755298&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-electric-guitar?variant=42678574448819",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-black-maple-single-fender-squier-sonic-telecaster-6-string-electric-guitar-1211231526_540x.jpg?v=1769755298&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-telecaster-electric-guitar?variant=37516624232627",
     "inStock": true,
     "priceHistory": [
       {
@@ -1239,6 +1251,10 @@
       {
         "date": "2026-04-01T02:55:41.852Z",
         "price": 22099
+      },
+      {
+        "date": "2026-04-02T02:39:43.693Z",
+        "price": 21999
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -3291,7 +3307,7 @@
   },
   {
     "id": "fender-affinity-series-telecaster-hh-lr-bpg-6-string-electric-guitar",
-    "name": "Fender Squier Affinity Series Telecaster HH LR BPG 6 String Electric Guitar",
+    "name": "Fender Affinity Series Telecaster HH LR BPG 6 String Electric Guitar",
     "brand": "Fender",
     "currentPrice": 28348,
     "originalPrice": 28348,
@@ -6991,11 +7007,11 @@
     "id": "jackson-js12-dinky-electric-guitar-amaranth-fretboard",
     "name": "Jackson JS12 Dinky 6 String Electric Guitar",
     "brand": "Jackson",
-    "currentPrice": 22496,
-    "originalPrice": 22496,
+    "currentPrice": 24313,
+    "originalPrice": 24313,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-single-metallic-blue-jackson-js12-dinky-6-string-electric-guitar-1219029950_540x.jpg?v=1770040950&width=1500",
-    "productUrl": "https://www.bajaao.com/products/jackson-js12-dinky-electric-guitar-amaranth-fretboard?variant=29382947438664",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-metallic-red-bundle-jackson-js12-dinky-6-string-electric-guitar-30470020563123_540x.jpg?v=1770040987&width=1500",
+    "productUrl": "https://www.bajaao.com/products/jackson-js12-dinky-electric-guitar-amaranth-fretboard?variant=37566505320627",
     "inStock": true,
     "priceHistory": [
       {
@@ -7009,6 +7025,10 @@
       {
         "date": "2026-03-14T02:26:36.738Z",
         "price": 22496
+      },
+      {
+        "date": "2026-04-02T02:39:43.693Z",
+        "price": 24313
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -10662,8 +10682,8 @@
     "currentPrice": 28348,
     "originalPrice": 28348,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-metallic-black-indian-laurel-fender-affinity-series-stratocaster-hss-6-string-electric-guitar-1175559765_540x.png?v=1768200742&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-affinity-series-stratocaster-hss-6-string-electric-guitar?variant=42039600152755",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-ice-blue-metallic-indian-laurel-fender-affinity-series-stratocaster-hss-6-string-electric-guitar-1088665822_540x.jpg?v=1768045879&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-affinity-series-stratocaster-hss-6-string-electric-guitar?variant=44168996716723",
     "inStock": true,
     "priceHistory": [
       {
