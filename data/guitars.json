@@ -1888,8 +1888,8 @@
     "currentPrice": 89063,
     "originalPrice": 89063,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-polar-white-rosewood-ss-fender-player-ii-telecaster-6-string-electric-guitar-1175678726_540x.png?v=1769755010&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=44107632312499",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-birch-green-rosewood-ss-fender-player-ii-telecaster-6-string-electric-guitar-1175678702_540x.png?v=1769755010&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=44193822965939",
     "inStock": true,
     "priceHistory": [
       {
@@ -4723,11 +4723,11 @@
     "id": "fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook",
     "name": "Fender Squier Sonic Stratocaster Electric Guitar with Guitar Amplifier, Gigbag,Polishing Cloth, Strap, Tuner, Pick, Cable and Ebook",
     "brand": "Fender",
-    "currentPrice": 25999,
-    "originalPrice": 25999,
+    "currentPrice": 21847,
+    "originalPrice": 21847,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sss-fsr-surf-green-maple-fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook-1146500839_540x.jpg?v=1769755079&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493053821107",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373200557-PRO-BUN_540x.jpg?v=1769755079&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493053919411",
     "inStock": true,
     "priceHistory": [
       {
@@ -4853,6 +4853,10 @@
       {
         "date": "2026-04-11T02:36:26.460Z",
         "price": 25999
+      },
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 21847
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -9234,8 +9238,8 @@
     "currentPrice": 19999,
     "originalPrice": 19999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-fender-squier-sonic-stratocaster-electric-guitar-bundle-with-gigbag-polishing-cloth-picks-strap-tuner-ebook-33562639040691_540x.jpg?v=1694840182&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-bundle?variant=17553855171",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-fender-squier-sonic-stratocaster-electric-guitar-bundle-with-gigbag-polishing-cloth-picks-strap-tuner-ebook-33562639106227_540x.jpg?v=1694840182&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-bundle?variant=17604830275",
     "inStock": true,
     "priceHistory": [
       {
@@ -11516,5 +11520,239 @@
       }
     ],
     "firstSeen": "2026-04-11T02:36:26.460Z"
+  },
+  {
+    "id": "strandberg-boden-essential-6-string-electric-guitar",
+    "name": "Strandberg Boden Essential 6 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 162077,
+    "originalPrice": 162077,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENESSENTIALBK_540x.jpg?v=1775805815&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-essential-6-string-electric-guitar?variant=43620920230067",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 162077
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-prog-nx-7-string-electric-guitar",
+    "name": "Strandberg Boden Prog NX 7 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 366654,
+    "originalPrice": 366654,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENPROGNX7DBL_540x.jpg?v=1775737659&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-prog-nx-7-string-electric-guitar?variant=45418040230067",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 366654
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-prog-nx-6-string-electric-guitar",
+    "name": "Strandberg Boden Prog NX 6 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 352547,
+    "originalPrice": 352547,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENPROGNX6DBL_540x.jpg?v=1775736273&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-prog-nx-6-string-electric-guitar?variant=45418035183795",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 352547
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-standard-bass-5-string-electric-guitar",
+    "name": "Strandberg Boden Standard Bass 5 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 366654,
+    "originalPrice": 366654,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BB5CT23SMFNA_540x.jpg?v=1775903819&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-standard-bass-5-string-electric-guitar?variant=45419625316531",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 366654
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-nx-7-true-temperament-7-string-headless-electric-guitar",
+    "name": "Strandberg Boden+ NX 7 True Temperament 7 String Headless Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 426965,
+    "originalPrice": 426965,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/strandberg-electric-guitars-strandberg-boden-nx-7-true-temperament-7-string-headless-electric-guitar-1070393507_540x.jpg?v=1768458941&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-nx-7-true-temperament-7-string-headless-electric-guitar?variant=45419530748083",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 426965
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-standard-nx-6-tremolo-6-string-electric-guitar-left-handed",
+    "name": "Strandberg Boden Standard NX 6 Tremolo 6 String Electric Guitar - Left Handed",
+    "brand": "Strandberg",
+    "currentPrice": 253794,
+    "originalPrice": 253794,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-STANDARDNXLEFT_540x.jpg?v=1775812196&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-standard-nx-6-tremolo-6-string-electric-guitar-left-handed?variant=45418000154803",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 253794
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-standard-n2-7-7-string-electric-guitar",
+    "name": "Strandberg Boden Standard N2.7 7 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 267902,
+    "originalPrice": 267902,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENSTANDARDN27BSM_540x.jpg?v=1775796532&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-standard-n2-7-7-string-electric-guitar?variant=45419446567091",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 267902
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-standard-n2-8-8-string-electric-guitar",
+    "name": "Strandberg Boden Standard N2.8 8 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 282009,
+    "originalPrice": 282009,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENSTANDARDN28BSM_540x.jpg?v=1775816995&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-standard-n2-8-8-string-electric-guitar?variant=45419525734579",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 282009
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-original-n2-7-7-string-electric-guitar",
+    "name": "Strandberg Boden Original N2.7 7 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 366654,
+    "originalPrice": 366654,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENORIGINALN27BDS_540x.jpg?v=1775798179&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-original-n2-7-7-string-electric-guitar?variant=45419530387635",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 366654
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-prog-nx-6-plini-edition-6-string-electric-guitar",
+    "name": "Strandberg Boden Prog NX 6 Plini Edition 6 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 430766,
+    "originalPrice": 430766,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENPROGNX6PE_540x.jpg?v=1775799185&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-prog-nx-6-plini-edition-6-string-electric-guitar?variant=45419540218035",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 430766
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-singularity-nx-7-7-string-electric-guitar",
+    "name": "Strandberg Boden Singularity NX 7 7 String Electric Guitar",
+    "brand": "Strandberg",
+    "currentPrice": 446156,
+    "originalPrice": 446156,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENSINGULARITYNX7PB_540x.jpg?v=1775800905&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-singularity-nx-7-7-string-electric-guitar?variant=45419550146739",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 446156
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "boden-standard-n2-6t-6-string-electric-guitar",
+    "name": "Boden Standard N2.6T 6 String Electric Guitar",
+    "brand": "Boden",
+    "currentPrice": 267902,
+    "originalPrice": 267902,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENSTANDARDN26TEFM_540x.jpg?v=1775802955&width=1500",
+    "productUrl": "https://www.bajaao.com/products/boden-standard-n2-6t-6-string-electric-guitar?variant=45419810029747",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 267902
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
+  },
+  {
+    "id": "strandberg-boden-original-n2-6t-6-string-electric-guitars",
+    "name": "Strandberg Boden Original N2.6T 6 String Electric Guitars",
+    "brand": "Strandberg",
+    "currentPrice": 366654,
+    "originalPrice": 366654,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SRB-BODENORIGINALN26TBBS_540x.jpg?v=1775803836&width=1500",
+    "productUrl": "https://www.bajaao.com/products/strandberg-boden-original-n2-6t-6-string-electric-guitars?variant=45419945853107",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-04-12T02:56:06.043Z",
+        "price": 366654
+      }
+    ],
+    "firstSeen": "2026-04-12T02:56:06.043Z"
   }
 ]
