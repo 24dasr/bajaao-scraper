@@ -342,8 +342,8 @@
     "currentPrice": 12299,
     "originalPrice": 12299,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-transparent-black-walnut-vault-rg1-soloist-premium-electric-guitar-29904527425715_540x.jpg?v=1769755704&width=1500",
-    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=40337845420211",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-matt-black-indian-laurel-vault-rg1-soloist-premium-electric-guitar-1172620328_540x.jpg?v=1769758830&width=1500",
+    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=44535900635315",
     "inStock": true,
     "priceHistory": [
       {
@@ -1140,8 +1140,8 @@
     "currentPrice": 84075,
     "originalPrice": 84075,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0144503515_540x.jpg?v=1772714279&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-stratocaster-electric-guitar-maple-fretboard?variant=42654664523955",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0144502506_540x.jpg?v=1772713743&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-stratocaster-electric-guitar-maple-fretboard?variant=12717298778184",
     "inStock": true,
     "priceHistory": [
       {
@@ -1444,8 +1444,8 @@
     "currentPrice": 23583,
     "originalPrice": 23583,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-ibanez-grx120sp-6-string-electric-guitar-31888304242867_540x.jpg?v=1743432165&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx120sp-electric-guitar?variant=43055171895475",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-dark-dusk-metallic-matte-ibanez-grx120sp-6-string-electric-guitar-1220500727_540x.jpg?v=1770811448&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx120sp-electric-guitar?variant=45270982787251",
     "inStock": true,
     "priceHistory": [
       {
@@ -1703,11 +1703,11 @@
     "id": "cort-cr250-6-string-electric-guitar",
     "name": "Cort CR250 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 38200,
-    "originalPrice": 38200,
+    "currentPrice": 40259,
+    "originalPrice": 40259,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-dark-blue-burst-cort-cr250-6-string-electric-guitar-1178541358_540x.jpg?v=1768363509&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-cr250-6-string-electric-guitar?variant=31842291941448",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-antique-amber-cort-cr250-6-string-electric-guitar-1178541359_540x.jpg?v=1768363551&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-cr250-6-string-electric-guitar?variant=31842291908680",
     "inStock": true,
     "priceHistory": [
       {
@@ -1729,6 +1729,10 @@
       {
         "date": "2026-04-14T02:53:38.935Z",
         "price": 38200
+      },
+      {
+        "date": "2026-04-15T02:51:08.237Z",
+        "price": 40259
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -2863,11 +2867,11 @@
     "id": "fender-american-professional-ii-stratocaster-hss-rosewood-fretboard-electric-guitar",
     "name": "Fender American Professional II Stratocaster HSS Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 235125,
-    "originalPrice": 235125,
+    "currentPrice": 216600,
+    "originalPrice": 216600,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-natural-maple-fender-american-professional-ii-stratocaster-hss-electric-guitar-33953075560627_540x.jpg?v=1751289433&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-stratocaster-hss-rosewood-fretboard-electric-guitar?variant=42894622523571",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-tone-sunburst-rosewood-fender-american-professional-ii-stratocaster-hss-electric-guitar-28395837096115_540x.jpg?v=1745821851&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-stratocaster-hss-rosewood-fretboard-electric-guitar?variant=39616619741363",
     "inStock": true,
     "priceHistory": [
       {
@@ -2893,6 +2897,10 @@
       {
         "date": "2026-04-14T02:53:38.935Z",
         "price": 235125
+      },
+      {
+        "date": "2026-04-15T02:51:08.237Z",
+        "price": 216600
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4763,11 +4771,11 @@
     "id": "fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook",
     "name": "Fender Squier Sonic Stratocaster Electric Guitar with Guitar Amplifier, Gigbag,Polishing Cloth, Strap, Tuner, Pick, Cable and Ebook",
     "brand": "Fender",
-    "currentPrice": 21190,
-    "originalPrice": 21190,
+    "currentPrice": 25999,
+    "originalPrice": 25999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373202597-PRO-BUN_540x.jpg?v=1769755079&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493054148787",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sss-fsr-surf-green-maple-fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook-1146500839_540x.jpg?v=1769755079&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar-with-guitar-amplifier-gigbag-polishing-cloth-strap-tuner-pick-cable-and-ebook?variant=44493053821107",
     "inStock": true,
     "priceHistory": [
       {
@@ -4905,6 +4913,10 @@
       {
         "date": "2026-04-14T02:53:38.935Z",
         "price": 21190
+      },
+      {
+        "date": "2026-04-15T02:51:08.237Z",
+        "price": 25999
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -5974,8 +5986,8 @@
     "currentPrice": 71900,
     "originalPrice": 71900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-ebony-epiphone-les-paul-standard-60s-6-strings-electric-guitar-18849243529377_540x.jpg?v=1743511501&width=1500",
-    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-standard-60s-6-strings-electric-guitar?variant=36034143617185",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-bourbon-burst-epiphone-les-paul-standard-60s-6-strings-electric-guitar-18849243660449_540x.jpg?v=1743511480&width=1500",
+    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-standard-60s-6-strings-electric-guitar?variant=36034143584417",
     "inStock": true,
     "priceHistory": [
       {
@@ -6371,11 +6383,11 @@
     "id": "gibson-les-paul-modern-lite-6-string-electric-guitar",
     "name": "Gibson Les Paul Modern Lite 6 String Electric Guitar",
     "brand": "Gibson",
-    "currentPrice": 148900,
-    "originalPrice": 148900,
+    "currentPrice": 147900,
+    "originalPrice": 147900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-tv-wheat-gibson-les-paul-modern-lite-6-string-electric-guitar-34466964570291_540x.jpg?v=1759396579&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451907251",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-gold-mist-satin-gibson-les-paul-modern-lite-6-string-electric-guitar-34466928066739_540x.jpg?v=1759396579&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451776179",
     "inStock": true,
     "priceHistory": [
       {
@@ -6409,6 +6421,10 @@
       {
         "date": "2026-04-03T02:42:15.695Z",
         "price": 148900
+      },
+      {
+        "date": "2026-04-15T02:51:08.237Z",
+        "price": 147900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
