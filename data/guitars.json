@@ -3,11 +3,11 @@
     "id": "fender-squier-sonic-stratocaster-electric-guitar",
     "name": "Fender Squier Sonic Stratocaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 20800,
-    "originalPrice": 20800,
+    "currentPrice": 20699,
+    "originalPrice": 20699,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373202511_540x.jpg?v=1779350696&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar?variant=1130264100888",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373203506_540x.jpg?v=1779350545&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-stratocaster-electric-guitar?variant=1236441459",
     "inStock": true,
     "priceHistory": [
       {
@@ -245,6 +245,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 20800
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 20699
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -364,8 +368,8 @@
     "currentPrice": 22648,
     "originalPrice": 22648,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373202580_416f2353-907a-422c-95f8-b87c3d69bda5_540x.jpg?v=1779364427&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-fsr-squier-sonic-stratocaster-electric-guitar?variant=44607646105779",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373152557_540x.jpg?v=1779363751&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-fsr-squier-sonic-stratocaster-electric-guitar?variant=44607645909171",
     "inStock": true,
     "priceHistory": [
       {
@@ -956,8 +960,8 @@
     "currentPrice": 57000,
     "originalPrice": 57000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-vintage-cherry-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202761100_540x.jpg?v=1768045568&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107699253427",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202747274_540x.jpg?v=1768045432&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107496255667",
     "inStock": true,
     "priceHistory": [
       {
@@ -1125,11 +1129,11 @@
     "id": "cort-g115se-6-string-electric-guitar",
     "name": "Cort G115SE 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 14500,
-    "originalPrice": 14500,
+    "currentPrice": 13680,
+    "originalPrice": 13680,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-2-tone-sunburst-cort-g115se-6-string-electric-guitar-1106227006_540x.jpg?v=1768445059&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-g115se-6-string-electric-guitar?variant=44347357167795",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-black-cort-g115se-6-string-electric-guitar-1106226987_540x.jpg?v=1768444950&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-g115se-6-string-electric-guitar?variant=44347357135027",
     "inStock": true,
     "priceHistory": [
       {
@@ -1239,6 +1243,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 14500
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 13680
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -1247,11 +1255,11 @@
     "id": "jackson-js22-dka-dinky-arch-top-electric-guitar-amaranth-fretboard",
     "name": "Jackson JS22 DKA Dinky Arch Top Electric Guitar",
     "brand": "Jackson",
-    "currentPrice": 25079,
-    "originalPrice": 25079,
+    "currentPrice": 27208,
+    "originalPrice": 27208,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-satin-black-jackson-js22-dka-dinky-arch-top-electric-guitar-1183534767_540x.png?v=1773308760&width=1500",
-    "productUrl": "https://www.bajaao.com/products/jackson-js22-dka-dinky-arch-top-electric-guitar-amaranth-fretboard?variant=29382658129992",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-metallic-blue-jackson-js22-dka-dinky-arch-top-electric-guitar-1183534770_540x.png?v=1773308784&width=1500",
+    "productUrl": "https://www.bajaao.com/products/jackson-js22-dka-dinky-arch-top-electric-guitar-amaranth-fretboard?variant=29431711858760",
     "inStock": true,
     "priceHistory": [
       {
@@ -1369,6 +1377,10 @@
       {
         "date": "2026-07-21T02:55:40.195Z",
         "price": 25079
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 27208
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -1508,8 +1520,8 @@
     "currentPrice": 29310,
     "originalPrice": 29310,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-transparent-black-sunburst-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1177111491_540x.jpg?v=1769754964&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=3101874815000",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-transparent-blue-burst-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1177111512_540x.jpg?v=1769754964&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=3101874782232",
     "inStock": true,
     "priceHistory": [
       {
@@ -1928,8 +1940,8 @@
     "currentPrice": 17480,
     "originalPrice": 17480,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sea-foam-green-fender-debut-collection-stratocaster-6-string-electric-guitar-1212430570_540x.jpg?v=1768124707&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-debut-collection-stratocaster-6-string-electric-guitar?variant=44777778938035",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-dakota-red-fender-debut-collection-stratocaster-6-string-electric-guitar-1170452338_540x.jpg?v=1768304587&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-debut-collection-stratocaster-6-string-electric-guitar?variant=44725148549299",
     "inStock": true,
     "priceHistory": [
       {
@@ -2293,8 +2305,8 @@
     "id": "ibanez-rg421ex-electric-guitar",
     "name": "Ibanez RG421EX RG Standard Series Electric Guitar- Black Flat",
     "brand": "Ibanez",
-    "currentPrice": 40985,
-    "originalPrice": 40985,
+    "currentPrice": 45199,
+    "originalPrice": 45199,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBANEZRG421EX_540x.jpg?v=1773482650&width=1500",
     "productUrl": "https://www.bajaao.com/products/ibanez-rg421ex-electric-guitar",
@@ -2327,6 +2339,10 @@
       {
         "date": "2026-07-08T02:57:28.963Z",
         "price": 40985
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 45199
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -2411,11 +2427,11 @@
     "id": "ibanez-grx40-electric-guitar",
     "name": "Ibanez GRX40 RG Gio Series Maple Neck 6 String Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 23500,
-    "originalPrice": 23500,
+    "currentPrice": 23269,
+    "originalPrice": 23269,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBA-GRX40MGN_540x.jpg?v=1781943469&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-electric-guitar?variant=31636206682184",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBANEZGRX40_540x.jpg?v=1781943602&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-electric-guitar?variant=6657872323",
     "inStock": true,
     "priceHistory": [
       {
@@ -2625,6 +2641,10 @@
       {
         "date": "2026-07-21T02:55:40.195Z",
         "price": 23500
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 23269
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -2798,7 +2818,7 @@
     "currentPrice": 25960,
     "originalPrice": 25960,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-black-cort-cr100-les-paul-style-electric-guitar-1178541376_540x.jpg?v=1768363721&width=1500",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/CORTCR100_540x.jpg?v=1784717158&width=1500",
     "productUrl": "https://www.bajaao.com/products/cort-cr100-les-paul-style-electric-guitar?variant=6657681411",
     "inStock": true,
     "priceHistory": [
@@ -3049,11 +3069,11 @@
     "id": "fender-squier-sonic-mustang-hh-electric-guitar",
     "name": "Fender Squier Sonic Mustang HH 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 22499,
-    "originalPrice": 22499,
+    "currentPrice": 22999,
+    "originalPrice": 22999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-california-blue-indian-laurel-single-fender-squier-sonic-mustang-hh-6-string-electric-guitar-1219047651_540x.jpg?v=1772003127&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-mustang-hh-electric-guitar?variant=12886539305032",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373701526-STD-BUN_540x.jpg?v=1772003743&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-sonic-mustang-hh-electric-guitar?variant=44404341244083",
     "inStock": true,
     "priceHistory": [
       {
@@ -3223,6 +3243,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 22499
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 22999
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -3595,11 +3619,11 @@
     "id": "fender-squier-debut-stratocaster-electric-guitar",
     "name": "Fender Squier Debut Stratocaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 17480,
-    "originalPrice": 17480,
+    "currentPrice": 16990,
+    "originalPrice": 16990,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-black-bundle-fender-squier-debut-stratocaster-electric-guitar-1176056357_540x.jpg?v=1768248113&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-stratocaster-electric-guitar?variant=44367552217267",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0379600503_075bbf74-df30-478e-b973-cf0dd1dc5de0_540x.jpg?v=1781588123&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-stratocaster-electric-guitar?variant=43866989723827",
     "inStock": true,
     "priceHistory": [
       {
@@ -3801,6 +3825,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 17480
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 16990
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -3963,11 +3991,11 @@
     "id": "cort-cr250-6-string-electric-guitar",
     "name": "Cort CR250 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 43220,
-    "originalPrice": 43220,
+    "currentPrice": 45629,
+    "originalPrice": 45629,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-dark-blue-burst-cort-cr250-6-string-electric-guitar-1178541358_540x.jpg?v=1768363509&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-cr250-6-string-electric-guitar?variant=31842291941448",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-antique-amber-cort-cr250-6-string-electric-guitar-1178541359_540x.jpg?v=1768363551&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-cr250-6-string-electric-guitar?variant=31842291908680",
     "inStock": true,
     "priceHistory": [
       {
@@ -4045,6 +4073,10 @@
       {
         "date": "2026-07-17T02:52:55.114Z",
         "price": 43220
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 45629
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -4409,11 +4441,11 @@
     "id": "fender-player-ii-telecaster-6-string-electric-guitar",
     "name": "Fender Player II Telecaster 6 String Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 99750,
-    "originalPrice": 99750,
+    "currentPrice": 106875,
+    "originalPrice": 106875,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-polar-white-rosewood-ss-fender-player-ii-telecaster-6-string-electric-guitar-1175678726_540x.png?v=1769755010&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=44107632312499",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0140552550_540x.jpg?v=1769755010&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=45144027398323",
     "inStock": true,
     "priceHistory": [
       {
@@ -4515,6 +4547,10 @@
       {
         "date": "2026-07-21T02:55:40.195Z",
         "price": 99750
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 106875
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -5311,11 +5347,11 @@
     "id": "ibanez-rg470dx-rg-6-string-electric-guitar",
     "name": "Ibanez RG470DX RG 6 String Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 59547,
-    "originalPrice": 59547,
+    "currentPrice": 56400,
+    "originalPrice": 56400,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-tokyo-midnight-ibanez-rg470dx-rg-6-string-electric-guitar-1176779627_540x.jpg?v=1769754965&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-rg470dx-rg-6-string-electric-guitar?variant=43061356921011",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-sea-foam-green-matte-ibanez-rg470dx-rg-6-string-electric-guitar-1176779623_540x.jpg?v=1769754965&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-rg470dx-rg-6-string-electric-guitar?variant=43061356888243",
     "inStock": true,
     "priceHistory": [
       {
@@ -5341,6 +5377,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 59547
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 56400
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -6062,8 +6102,8 @@
     "currentPrice": 227644,
     "originalPrice": 227644,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-tone-sunburst-maple-fender-american-professional-ii-stratocaster-hss-electric-guitar-31555319201971_540x.jpg?v=1751289433&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-stratocaster-hss-rosewood-fretboard-electric-guitar?variant=41790761337011",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-tone-sunburst-rosewood-fender-american-professional-ii-stratocaster-hss-electric-guitar-28395837096115_540x.jpg?v=1745821851&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-stratocaster-hss-rosewood-fretboard-electric-guitar?variant=39616619741363",
     "inStock": true,
     "priceHistory": [
       {
@@ -6270,8 +6310,8 @@
     "currentPrice": 222300,
     "originalPrice": 222300,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-mystic-surf-green-fender-american-professional-ii-sss-stratocaster-electric-guitar-1175971575_540x.png?v=1768049214&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-sss-stratocaster-electric-guitar?variant=40870523306163",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-miami-blue-fender-american-professional-ii-sss-stratocaster-electric-guitar-1175971569_540x.png?v=1768049140&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-american-professional-ii-sss-stratocaster-electric-guitar?variant=40870523273395",
     "inStock": true,
     "priceHistory": [
       {
@@ -7271,11 +7311,11 @@
     "id": "prs-se-studio-standard-electric-guitar-with-gigbag",
     "name": "PRS SE Studio Standard Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 86640,
-    "originalPrice": 86640,
+    "currentPrice": 81320,
+    "originalPrice": 81320,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-white-pearl-prs-se-studio-standard-electric-guitar-with-gigbag-1202784243_540x.jpg?v=1768999931&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-studio-standard-electric-guitar-with-gigbag?variant=45108008124595",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-sage-green-prs-se-studio-standard-electric-guitar-with-gigbag-1202784244_540x.jpg?v=1768999931&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-studio-standard-electric-guitar-with-gigbag?variant=45108008091827",
     "inStock": true,
     "priceHistory": [
       {
@@ -7285,6 +7325,10 @@
       {
         "date": "2026-07-17T02:52:55.114Z",
         "price": 86640
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 81320
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -7296,8 +7340,8 @@
     "currentPrice": 53200,
     "originalPrice": 53200,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-cs4hbrxn1-6-string-electric-guitar-with-gigbag-1202761096_540x.jpg?v=1768045601&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-cs4hbrxn1-6-string-electric-guitar-with-gigbag?variant=45107920502963",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-vintage-cherry-prs-se-cs4hbrxn1-6-string-electric-guitar-with-gigbag-1202761091_540x.jpg?v=1768045792&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-cs4hbrxn1-6-string-electric-guitar-with-gigbag?variant=45107955728563",
     "inStock": true,
     "priceHistory": [
       {
@@ -7340,8 +7384,8 @@
     "currentPrice": 89680,
     "originalPrice": 89680,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-vintage-cherry-prs-se-david-grissom-electric-guitar-with-gigbag-1202784247_540x.jpg?v=1768045830&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-david-grissom-electric-guitar-with-gigbag?variant=45108003569843",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-mccarty-tobacco-sunburst-prs-se-david-grissom-electric-guitar-with-gigbag-1202784248_540x.jpg?v=1768045807&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-david-grissom-electric-guitar-with-gigbag?variant=45108003537075",
     "inStock": true,
     "priceHistory": [
       {
@@ -7716,8 +7760,8 @@
     "currentPrice": 57000,
     "originalPrice": 57000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-aqua-marine-metallic-maple-fender-standard-telecaster-6-string-electric-guitar-1207872678_540x.jpg?v=1768409179&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-standard-telecaster-6-string-electric-guitar?variant=45145005359283",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-3-color-sunburst-indian-laurel-fender-standard-telecaster-6-string-electric-guitar-1207862839_540x.jpg?v=1768409442&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-standard-telecaster-6-string-electric-guitar?variant=45144995725491",
     "inStock": true,
     "priceHistory": [
       {
@@ -9131,8 +9175,8 @@
     "id": "cort-cr300-atb-6-string-electric-guitar",
     "name": "Cort CR300-ATB 6-String Electric Guitar - Aged Vintage Burst",
     "brand": "Cort",
-    "currentPrice": 41240,
-    "originalPrice": 41240,
+    "currentPrice": 47752,
+    "originalPrice": 47752,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-cort-cr300-atb-6-string-electric-guitar-aged-vintage-burst-1178544898_540x.jpg?v=1768364489&width=1500",
     "productUrl": "https://www.bajaao.com/products/cort-cr300-atb-6-string-electric-guitar",
@@ -9149,6 +9193,10 @@
       {
         "date": "2026-04-23T02:56:36.554Z",
         "price": 41240
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 47752
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -9507,11 +9555,11 @@
     "id": "cort-g110-2ts-2-tone-sunburst-g-guitar",
     "name": "Cort G Series G110 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 17040,
-    "originalPrice": 17040,
+    "currentPrice": 17991,
+    "originalPrice": 17991,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-sunburst-cort-g-series-g110-6-string-electric-guitar-1179233337_540x.jpg?v=1769755120&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-g110-2ts-2-tone-sunburst-g-guitar?variant=41473177911475",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-black-cherry-cort-g-series-g110-6-string-electric-guitar-1179233346_540x.jpg?v=1769755120&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-g110-2ts-2-tone-sunburst-g-guitar?variant=41473177714867",
     "inStock": true,
     "priceHistory": [
       {
@@ -9553,6 +9601,10 @@
       {
         "date": "2026-06-20T04:00:49.683Z",
         "price": 17040
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 17991
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -9828,8 +9880,8 @@
     "currentPrice": 20736,
     "originalPrice": 20736,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/JAC-2910121576_540x.jpg?v=1773205139&width=1500",
-    "productUrl": "https://www.bajaao.com/products/jackson-js11-dinky-electric-guitar?variant=15119964611",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/JAC-2910121503_540x.jpg?v=1773204935&width=1500",
+    "productUrl": "https://www.bajaao.com/products/jackson-js11-dinky-electric-guitar?variant=6656953923",
     "inStock": true,
     "priceHistory": [
       {
@@ -9959,11 +10011,11 @@
     "id": "newen-telecaster-6-string-electric-guitar",
     "name": "Newen Telecaster 6 String Electric Guitar",
     "brand": "Newen",
-    "currentPrice": 17637,
-    "originalPrice": 17637,
+    "currentPrice": 17638,
+    "originalPrice": 17638,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-blue-newen-telecaster-6-string-electric-guitar-1184082007_540x.jpg?v=1768211899&width=1500",
-    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268049587",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-black-newen-telecaster-6-string-electric-guitar-29031058178227_540x.jpg?v=1742035353&width=1500",
+    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268016819",
     "inStock": true,
     "priceHistory": [
       {
@@ -10001,6 +10053,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 17637
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 17638
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -10199,11 +10255,11 @@
     "id": "kramer-focus-vt-211s-6-strings-electric-guitar",
     "name": "Kramer Focus VT-211S 6-Strings Electric Guitar",
     "brand": "Kramer",
-    "currentPrice": 18900,
-    "originalPrice": 18900,
+    "currentPrice": 19800,
+    "originalPrice": 19800,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/kramer-electric-guitars-ruby-red-single-kramer-focus-vt-211s-6-strings-electric-guitar-18785300218017_540x.jpg?v=1688221296&width=1500",
-    "productUrl": "https://www.bajaao.com/products/kramer-focus-vt-211s-6-strings-electric-guitar?variant=35976767471777",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/kramer-electric-guitars-pewter-grey-single-kramer-focus-vt-211s-6-strings-electric-guitar-18785300250785_540x.jpg?v=1686201518&width=1500",
+    "productUrl": "https://www.bajaao.com/products/kramer-focus-vt-211s-6-strings-electric-guitar?variant=35976767406241",
     "inStock": true,
     "priceHistory": [
       {
@@ -10309,6 +10365,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 18900
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 19800
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -10633,11 +10693,11 @@
     "id": "jackson-js32-rhoads-electric-guitar",
     "name": "Jackson JS32 Rhoads 6 String Electric Guitar",
     "brand": "Jackson",
-    "currentPrice": 52622,
-    "originalPrice": 52622,
+    "currentPrice": 59052,
+    "originalPrice": 59052,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-ivory-jackson-js32-rhoads-6-string-electric-guitar-1183753522_540x.png?v=1769755043&width=1500",
-    "productUrl": "https://www.bajaao.com/products/jackson-js32-rhoads-electric-guitar?variant=41299142541491",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-black-with-white-bevels-jackson-js32-rhoads-6-string-electric-guitar-1183768993_540x.png?v=1769755043&width=1500",
+    "productUrl": "https://www.bajaao.com/products/jackson-js32-rhoads-electric-guitar?variant=39618630647987",
     "inStock": true,
     "priceHistory": [
       {
@@ -10711,6 +10771,10 @@
       {
         "date": "2026-07-22T02:53:40.385Z",
         "price": 52622
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 59052
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -10722,8 +10786,8 @@
     "currentPrice": 73735,
     "originalPrice": 73735,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-cherry-sunburst-sire-larry-carlton-h7-6-string-electric-guitar-32683337613491_540x.jpg?v=1736401563&width=1500",
-    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-h7-6-string-electric-guitar?variant=42418754322611",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-white-sire-larry-carlton-h7-6-string-electric-guitar-31883124441267_540x.jpg?v=1745654791&width=1500",
+    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-h7-6-string-electric-guitar?variant=42418755862707",
     "inStock": true,
     "priceHistory": [
       {
@@ -11576,8 +11640,8 @@
     "currentPrice": 37705,
     "originalPrice": 37705,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/mooer-electric-guitars-pearl-white-mooer-mmt100-6-string-electric-guitar-1159261242_540x.jpg?v=1769755509&width=1500",
-    "productUrl": "https://www.bajaao.com/products/mooer-mmt100-6-string-electric-guitar?variant=44642000699571",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/mooer-electric-guitars-iron-grey-mooer-mmt100-6-string-electric-guitar-1159261230_540x.jpg?v=1769755509&width=1500",
+    "productUrl": "https://www.bajaao.com/products/mooer-mmt100-6-string-electric-guitar?variant=44642000765107",
     "inStock": true,
     "priceHistory": [
       {
@@ -12326,8 +12390,8 @@
     "currentPrice": 25984,
     "originalPrice": 25984,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-single-gloss-black-jackson-js12-dinky-6-string-electric-guitar-1219047668_540x.jpg?v=1770048138&width=1500",
-    "productUrl": "https://www.bajaao.com/products/jackson-js12-dinky-electric-guitar-amaranth-fretboard?variant=29431773626440",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/jackson-electric-guitars-single-metallic-blue-jackson-js12-dinky-6-string-electric-guitar-1219029950_540x.jpg?v=1770040950&width=1500",
+    "productUrl": "https://www.bajaao.com/products/jackson-js12-dinky-electric-guitar-amaranth-fretboard?variant=29382947438664",
     "inStock": true,
     "priceHistory": [
       {
@@ -14739,11 +14803,11 @@
     "id": "fender-squier-affinity-series-telecaster-electric-guitar-bundle",
     "name": "Fender Squier Affinity Series Telecaster Electric Guitar with Gigbag, Tuner, Strap, Picks, Polishing Cloth, Cable & E-Book",
     "brand": "Fender",
-    "currentPrice": 30408,
-    "originalPrice": 30408,
+    "currentPrice": 28000,
+    "originalPrice": 28000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-3-color-sunburst-maple-fender-squier-affinity-series-telecaster-electric-guitar-with-gigbag-tuner-strap-picks-polishing-cloth-cable-e-book-346244541974_540x.jpg?v=1711731464&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-affinity-series-telecaster-electric-guitar-bundle?variant=43238579404979",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-fender-squier-affinity-series-telecaster-electric-guitar-with-gigbag-tuner-strap-picks-polishing-cloth-cable-e-book-34624453902515_540x.jpg?v=1711731456&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-affinity-series-telecaster-electric-guitar-bundle?variant=43238577504435",
     "inStock": true,
     "priceHistory": [
       {
@@ -14789,6 +14853,10 @@
       {
         "date": "2026-06-26T04:01:49.403Z",
         "price": 30408
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 28000
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -15306,8 +15374,8 @@
     "currentPrice": 99750,
     "originalPrice": 99750,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-turquoise-prs-se-custom-24-08-6-string-electric-guitar-with-gigbag-1210887663_540x.jpg?v=1768445729&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-custom-24-08-6-string-electric-guitar-with-gigbag-1?variant=45163581833395",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-cherry-burst-prs-se-custom-24-08-6-string-electric-guitar-with-gigbag-1202747280_540x.jpg?v=1768045388&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-custom-24-08-6-string-electric-guitar-with-gigbag-1?variant=45107354828979",
     "inStock": true,
     "priceHistory": [
       {
@@ -15425,16 +15493,20 @@
     "id": "prs-se-studio-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE Studio 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 103360,
-    "originalPrice": 103360,
+    "currentPrice": 112480,
+    "originalPrice": 112480,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-orange-tiger-smokeburst-prs-se-studio-6-string-electric-guitar-with-gigbag-1197492217_540x.jpg?v=1768049911&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-studio-6-string-electric-guitar-with-gigbag?variant=45061950505139",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-lake-blue-prs-se-studio-6-string-electric-guitar-with-gigbag-1197492219_540x.jpg?v=1768049932&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-studio-6-string-electric-guitar-with-gigbag?variant=45061950472371",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-03-01T02:41:14.967Z",
         "price": 103360
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 112480
       }
     ],
     "firstSeen": "2026-03-01T02:41:14.967Z"
@@ -16895,8 +16967,8 @@
     "id": "prs-se-mccarty-594-singlecut-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE McCarty 594 Singlecut 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 95000,
-    "originalPrice": 95000,
+    "currentPrice": 99750,
+    "originalPrice": 99750,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-vintage-sunburst-prs-se-mccarty-594-singlecut-6-string-electric-guitar-with-gigbag-32608504152243_540x.jpg?v=1769755100&width=1500",
     "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-singlecut-6-string-electric-guitar-with-gigbag?variant=42290989662387",
@@ -16905,6 +16977,10 @@
       {
         "date": "2026-03-26T02:41:53.510Z",
         "price": 95000
+      },
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 99750
       }
     ],
     "firstSeen": "2026-03-26T02:41:53.510Z"
@@ -19820,8 +19896,8 @@
     "currentPrice": 103360,
     "originalPrice": 103360,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/PRS-NF2SXMXN1BX_540x.jpg?v=1781500612&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-nf53-6-string-electric-guitar?variant=45575994867891",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/PRS-NF2SXMXN1BW_540x.jpg?v=1781464924&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-nf53-6-string-electric-guitar?variant=45575994835123",
     "inStock": true,
     "priceHistory": [
       {
@@ -20388,5 +20464,59 @@
       }
     ],
     "firstSeen": "2026-07-20T03:50:27.625Z"
+  },
+  {
+    "id": "ibanez-as93fm-6-string-electric-guitar",
+    "name": "Ibanez AS93FM 6 String Electric Guitar",
+    "brand": "Ibanez",
+    "currentPrice": 61419,
+    "originalPrice": 61419,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBA-AS93FMTMG_540x.jpg?v=1777958295&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-as93fm-6-string-electric-guitar?variant=45490400297139",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 61419
+      }
+    ],
+    "firstSeen": "2026-07-23T02:59:50.247Z"
+  },
+  {
+    "id": "ibanez-rga21p1pb-premium-rga-series-6-string-electric-guitar",
+    "name": "Ibanez RGA21P1PB Premium RGA Series 6 String Electric Guitar",
+    "brand": "Ibanez",
+    "currentPrice": 129124,
+    "originalPrice": 129124,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBA-RGA21P1PBDRL_540x.jpg?v=1781527357&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-rga21p1pb-premium-rga-series-6-string-electric-guitar?variant=45577673539763",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 129124
+      }
+    ],
+    "firstSeen": "2026-07-23T02:59:50.247Z"
+  },
+  {
+    "id": "prs-se-studio-6-string-electric-guitar",
+    "name": "PRS SE Studio 6 String Electric Guitar",
+    "brand": "PRS",
+    "currentPrice": 100000,
+    "originalPrice": 100000,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/PRS-UD2FXRXN1CG_540x.jpg?v=1782467244&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-studio-6-string-electric-guitar?variant=45599225020595",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-07-23T02:59:50.247Z",
+        "price": 100000
+      }
+    ],
+    "firstSeen": "2026-07-23T02:59:50.247Z"
   }
 ]
