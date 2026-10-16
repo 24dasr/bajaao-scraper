@@ -2065,11 +2065,11 @@
     "id": "ibanez-grx70qa-electric-guitar",
     "name": "Ibanez GRX70QA RG Gio Series 6-String Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 25430,
-    "originalPrice": 25430,
+    "currentPrice": 25732,
+    "originalPrice": 25732,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1218699025_540x.jpg?v=1769765610&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=3101874847768",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-sunburst-ibanez-grx70qa-rg-gio-series-6-string-electric-guitar-1177119890_540x.jpg?v=1769754964&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx70qa-electric-guitar?variant=39866810040499",
     "inStock": true,
     "priceHistory": [
       {
@@ -2239,6 +2239,10 @@
       {
         "date": "2026-10-15T03:49:30.125Z",
         "price": 25430
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 25732
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -3279,11 +3283,11 @@
     "id": "ibanez-grx40-electric-guitar",
     "name": "Ibanez GRX40 RG Gio Series Maple Neck 6 String Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 27772,
-    "originalPrice": 27772,
+    "currentPrice": 21444,
+    "originalPrice": 21444,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-light-pink-ibanez-grx40-rg-gio-series-maple-neck-6-string-electric-guitar-1208928985_540x.jpg?v=1768033591&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-electric-guitar?variant=45153492369587",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBANEZGRX40_540x.jpg?v=1781943602&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grx40-electric-guitar?variant=6657872323",
     "inStock": true,
     "priceHistory": [
       {
@@ -3621,6 +3625,10 @@
       {
         "date": "2026-10-15T03:49:30.125Z",
         "price": 27772
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 21444
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -6677,11 +6685,11 @@
     "id": "prs-se-mccarty-594-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE McCarty 594 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 95000,
-    "originalPrice": 95000,
+    "currentPrice": 99750,
+    "originalPrice": 99750,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-black-gold-sunburst-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-1211261799_540x.jpg?v=1769755339&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42290971345075",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-faded-blue-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-32608448118963_540x.jpg?v=1769755339&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42290971410611",
     "inStock": true,
     "priceHistory": [
       {
@@ -6731,6 +6739,10 @@
       {
         "date": "2026-10-13T06:03:45.473Z",
         "price": 95000
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 99750
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -9946,8 +9958,8 @@
     "currentPrice": 25316,
     "originalPrice": 25316,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-aged-cream-cort-g200se-g-series-6-string-electric-guitar-1207336271_540x.jpg?v=1768208742&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-g200se-g-series-6-string-electric-guitar?variant=45141611872435",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-scarlet-red-cort-g200se-g-series-6-string-electric-guitar-1207377388_540x.jpg?v=1768209187&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-g200se-g-series-6-string-electric-guitar?variant=45141611905203",
     "inStock": true,
     "priceHistory": [
       {
@@ -11017,11 +11029,11 @@
     "id": "ibanez-s521-mol-electric-guitar-mahogany-oil",
     "name": "Ibanez S521 Standard Series Electric Guitar",
     "brand": "Ibanez",
-    "currentPrice": 47481,
-    "originalPrice": 47481,
+    "currentPrice": 44990,
+    "originalPrice": 44990,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-mahogany-oil-ibanez-s521-standard-series-electric-guitar-1252767087_540x.jpeg?v=1752151585&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-s521-mol-electric-guitar-mahogany-oil?variant=1236286439",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/ibanez-electric-guitars-blackberry-sunburst-ibanez-s521-standard-series-electric-guitar-9168472259_540x.jpg?v=1752151585&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-s521-mol-electric-guitar-mahogany-oil?variant=15119910787",
     "inStock": true,
     "priceHistory": [
       {
@@ -11071,6 +11083,10 @@
       {
         "date": "2026-09-05T03:36:42.964Z",
         "price": 47481
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 44990
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -12323,11 +12339,11 @@
     "id": "cort-g110-2ts-2-tone-sunburst-g-guitar",
     "name": "Cort G Series G110 6 String Electric Guitar",
     "brand": "Cort",
-    "currentPrice": 17900,
-    "originalPrice": 17900,
+    "currentPrice": 15527,
+    "originalPrice": 15527,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-sunburst-cort-g-series-g110-6-string-electric-guitar-1179233337_540x.jpg?v=1769755120&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-g110-2ts-2-tone-sunburst-g-guitar?variant=41473177911475",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-black-cherry-cort-g-series-g110-6-string-electric-guitar-1179233346_540x.jpg?v=1769755120&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-g110-2ts-2-tone-sunburst-g-guitar?variant=41473177714867",
     "inStock": true,
     "priceHistory": [
       {
@@ -12417,6 +12433,10 @@
       {
         "date": "2026-10-15T03:49:30.125Z",
         "price": 17900
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 15527
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -12939,11 +12959,11 @@
     "id": "newen-telecaster-6-string-electric-guitar",
     "name": "Newen Telecaster 6 String Electric Guitar",
     "brand": "Newen",
-    "currentPrice": 17637,
-    "originalPrice": 17637,
+    "currentPrice": 17638,
+    "originalPrice": 17638,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-natural-wood-newen-telecaster-6-string-electric-guitar-29031146389683_540x.jpg?v=1743255370&width=1500",
-    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268115123",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-black-newen-telecaster-6-string-electric-guitar-29031058178227_540x.jpg?v=1742035353&width=1500",
+    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268016819",
     "inStock": true,
     "priceHistory": [
       {
@@ -12989,6 +13009,10 @@
       {
         "date": "2026-10-15T03:49:30.125Z",
         "price": 17637
+      },
+      {
+        "date": "2026-10-16T03:45:17.493Z",
+        "price": 17638
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -14352,8 +14376,8 @@
     "currentPrice": 62806,
     "originalPrice": 62806,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/d-angelico-electric-guitars-sky-blue-d-angelico-premier-mini-dc-semi-hollow-6-string-electric-guitar-33707326242995_540x.jpg?v=1697798376&width=1500",
-    "productUrl": "https://www.bajaao.com/products/dangelico-premier-mini-dc-semi-hollow-6-string-electric-guitar?variant=42744815812787",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/d-angelico-electric-guitars-black-flake-d-angelico-premier-mini-dc-semi-hollow-6-string-electric-guitar-33707226235059_540x.jpg?v=1697796225&width=1500",
+    "productUrl": "https://www.bajaao.com/products/dangelico-premier-mini-dc-semi-hollow-6-string-electric-guitar?variant=42744815714483",
     "inStock": true,
     "priceHistory": [
       {
@@ -16958,8 +16982,8 @@
     "currentPrice": 47760,
     "originalPrice": 47760,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-tobacco-sunburst-sire-larry-carlton-s3-6-string-electric-guitar-32643493789875_540x.jpg?v=1769755617&width=1500",
-    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-s3-6-string-electric-guitar?variant=42303191548083",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-metallic-gold-sire-larry-carlton-s3-6-string-electric-guitar-1214617222_540x.jpg?v=1769755617&width=1500",
+    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-s3-6-string-electric-guitar?variant=45208376901811",
     "inStock": true,
     "priceHistory": [
       {
@@ -27314,8 +27338,8 @@
     "currentPrice": 139006,
     "originalPrice": 139006,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SCT-NJTRAD10THHSS1156_540x.jpg?v=1790680265&width=1500",
-    "productUrl": "https://www.bajaao.com/products/nick-johnston-traditional-hss-10th-anniversary-6-string-electric-guitar?variant=46123890573491",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/SCT-NJTRAD10THHSS11541_540x.jpg?v=1790677702&width=1500",
+    "productUrl": "https://www.bajaao.com/products/nick-johnston-traditional-hss-10th-anniversary-6-string-electric-guitar?variant=46123668603059",
     "inStock": true,
     "priceHistory": [
       {
