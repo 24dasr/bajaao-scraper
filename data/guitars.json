@@ -942,8 +942,8 @@
     "currentPrice": 36490,
     "originalPrice": 36490,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBANEZGRG170DXSV_540x.jpg?v=1773474252&width=1500",
-    "productUrl": "https://www.bajaao.com/products/ibanez-grg170dx-electric-guitar?variant=15123955715",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/IBANEZGRG170DX_540x.jpg?v=1773474252&width=1500",
+    "productUrl": "https://www.bajaao.com/products/ibanez-grg170dx-electric-guitar?variant=984796311",
     "inStock": true,
     "priceHistory": [
       {
@@ -1104,8 +1104,8 @@
     "currentPrice": 21093,
     "originalPrice": 21093,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-black-single-cort-x100-6-string-electric-guitar-1183115385_540x.jpg?v=1770975757&width=1500",
-    "productUrl": "https://www.bajaao.com/products/cort-x100-6-string-electric-guitar?variant=12366940897352",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/cort-electric-guitars-open-pore-blackcherry-burst-single-cort-x100-6-string-electric-guitar-1184071275_540x.jpg?v=1770971346&width=1500",
+    "productUrl": "https://www.bajaao.com/products/cort-x100-6-string-electric-guitar?variant=12366940864584",
     "inStock": true,
     "priceHistory": [
       {
@@ -1405,11 +1405,11 @@
     "id": "prs-se-ch-44-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE CH 44 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 54000,
-    "originalPrice": 54000,
+    "currentPrice": 57000,
+    "originalPrice": 57000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-metallic-gold-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202761101_540x.jpg?v=1768045612&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107592757427",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202747274_540x.jpg?v=1768045432&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107496255667",
     "inStock": true,
     "priceHistory": [
       {
@@ -1439,6 +1439,10 @@
       {
         "date": "2026-10-29T04:57:21.093Z",
         "price": 54000
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 57000
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -3860,8 +3864,8 @@
     "currentPrice": 31692,
     "originalPrice": 31692,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378200502_540x.jpg?v=1772625967&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=41381479907507",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378200505_540x.jpg?v=1772625967&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=41381480825011",
     "inStock": true,
     "priceHistory": [
       {
@@ -4128,8 +4132,8 @@
     "currentPrice": 10499,
     "originalPrice": 10499,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-natural-vault-tl1-tele-style-electric-guitar-31191299293363_540x.jpg?v=1687555832&width=1500",
-    "productUrl": "https://www.bajaao.com/products/vault-tl1-telecaster-style-electric-guitar?variant=15840383533128",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-matte-black-vault-tl1-tele-style-electric-guitar-1172642157_540x.jpg?v=1768053041&width=1500",
+    "productUrl": "https://www.bajaao.com/products/vault-tl1-telecaster-style-electric-guitar?variant=44535901618355",
     "inStock": true,
     "priceHistory": [
       {
@@ -5139,11 +5143,11 @@
     "id": "fender-squier-debut-stratocaster-electric-guitar",
     "name": "Fender Squier Debut Stratocaster Electric Guitar",
     "brand": "Fender",
-    "currentPrice": 18240,
-    "originalPrice": 18240,
+    "currentPrice": 19485,
+    "originalPrice": 19485,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-sea-foam-green-single-fender-squier-debut-stratocaster-electric-guitar-1174710599_540x.jpg?v=1768337249&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-stratocaster-electric-guitar?variant=44777863512243",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-black-bundle-fender-squier-debut-stratocaster-electric-guitar-1176056357_540x.jpg?v=1768248113&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-stratocaster-electric-guitar?variant=44367552217267",
     "inStock": true,
     "priceHistory": [
       {
@@ -5517,6 +5521,10 @@
       {
         "date": "2026-10-24T03:51:07.206Z",
         "price": 18240
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 19485
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -7041,11 +7049,11 @@
     "id": "prs-se-mccarty-594-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE McCarty 594 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 99750,
-    "originalPrice": 99750,
+    "currentPrice": 95000,
+    "originalPrice": 95000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-1211243821_540x.jpg?v=1769755339&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42853530992819",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-black-gold-sunburst-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-1211261799_540x.jpg?v=1769755339&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42290971345075",
     "inStock": true,
     "priceHistory": [
       {
@@ -7123,6 +7131,10 @@
       {
         "date": "2026-10-29T04:57:21.093Z",
         "price": 99750
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 95000
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -10158,8 +10170,8 @@
     "currentPrice": 94240,
     "originalPrice": 94240,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/PRS-CU4FXRXN1BG_540x.jpg?v=1789108080&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-custom-24-6-string-electric-guitar-with-gigbag?variant=45107978010803",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/PRS-CU4FXRXN1CG_540x.jpg?v=1789108118&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-custom-24-6-string-electric-guitar-with-gigbag?variant=45107979813043",
     "inStock": true,
     "priceHistory": [
       {
@@ -13535,11 +13547,11 @@
     "id": "newen-telecaster-6-string-electric-guitar",
     "name": "Newen Telecaster 6 String Electric Guitar",
     "brand": "Newen",
-    "currentPrice": 17638,
-    "originalPrice": 17638,
+    "currentPrice": 17637,
+    "originalPrice": 17637,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-black-newen-telecaster-6-string-electric-guitar-29031058178227_540x.jpg?v=1742035353&width=1500",
-    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268016819",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-white-newen-telecaster-6-string-electric-guitar-29031153926323_540x.jpg?v=1743255414&width=1500",
+    "productUrl": "https://www.bajaao.com/products/newen-telecaster-6-string-electric-guitar?variant=40010268180659",
     "inStock": true,
     "priceHistory": [
       {
@@ -13589,6 +13601,10 @@
       {
         "date": "2026-10-16T03:45:17.493Z",
         "price": 17638
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 17637
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -13870,8 +13886,8 @@
     "currentPrice": 13999,
     "originalPrice": 13999,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/kramer-electric-guitars-purple-single-kramer-focus-vt-211s-6-strings-electric-guitar-18785300316321_540x.jpg?v=1686201525&width=1500",
-    "productUrl": "https://www.bajaao.com/products/kramer-focus-vt-211s-6-strings-electric-guitar?variant=35976767439009",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/kramer-electric-guitars-pewter-grey-single-kramer-focus-vt-211s-6-strings-electric-guitar-18785300250785_540x.jpg?v=1686201518&width=1500",
+    "productUrl": "https://www.bajaao.com/products/kramer-focus-vt-211s-6-strings-electric-guitar?variant=35976767406241",
     "inStock": true,
     "priceHistory": [
       {
@@ -16242,8 +16258,8 @@
     "currentPrice": 65652,
     "originalPrice": 65652,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-transparent-black-satin-sire-larry-carlton-x5-6-string-electric-guitar-1098492879_540x.jpg?v=1768414481&width=1500",
-    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-x5-6-string-electric-guitar?variant=44269597851827",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/sire-electric-guitars-transparent-blue-satin-sire-larry-carlton-x5-6-string-electric-guitar-1098492880_540x.jpg?v=1768414329&width=1500",
+    "productUrl": "https://www.bajaao.com/products/sire-larry-carlton-x5-6-string-electric-guitar?variant=44269597884595",
     "inStock": true,
     "priceHistory": [
       {
@@ -16777,8 +16793,8 @@
     "id": "schecter-reaper-6-scb-6-strings-electric-guitar-satin-charcoal-burst",
     "name": "Schecter Reaper 6 6 Strings Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 85055,
-    "originalPrice": 85055,
+    "currentPrice": 94081,
+    "originalPrice": 94081,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-charcoal-burst-schecter-reaper-6-6-strings-electric-guitar-33327242346675_540x.jpg?v=1743255556&width=1500",
     "productUrl": "https://www.bajaao.com/products/schecter-reaper-6-scb-6-strings-electric-guitar-satin-charcoal-burst?variant=39608955863219",
@@ -16791,6 +16807,10 @@
       {
         "date": "2026-10-27T04:15:47.123Z",
         "price": 85055
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 94081
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -16985,8 +17005,8 @@
     "id": "schecter-sun-valley-super-shredder-fr-electric-guitar-satin-black",
     "name": "Schecter Sun Valley Super Shredder FR S Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 85089,
-    "originalPrice": 85089,
+    "currentPrice": 109409,
+    "originalPrice": 109409,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-birch-green-schecter-sun-valley-super-shredder-fr-s-electric-guitar-1181687448_540x.jpg?v=1769755395&width=1500",
     "productUrl": "https://www.bajaao.com/products/schecter-sun-valley-super-shredder-fr-electric-guitar-satin-black?variant=42873143984307",
@@ -17023,6 +17043,10 @@
       {
         "date": "2026-10-28T04:45:04.531Z",
         "price": 85089
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 109409
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -17235,16 +17259,20 @@
     "id": "schecter-reaper-6-fr-s-6-string-electric-guitar",
     "name": "Schecter Reaper-6 FR S 6 String Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 123376,
-    "originalPrice": 123376,
+    "currentPrice": 145903,
+    "originalPrice": 145903,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-charcoal-burst-schecter-reaper-6-fr-s-6-string-electric-guitar-1181693419_540x.jpg?v=1769755290&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-reaper-6-fr-s-6-string-electric-guitar?variant=42873677316275",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-sky-burst-schecter-reaper-6-fr-s-6-string-electric-guitar-1181693401_540x.jpg?v=1769755290&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-reaper-6-fr-s-6-string-electric-guitar?variant=42873677349043",
     "inStock": true,
     "priceHistory": [
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 123376
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 145903
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -17305,8 +17333,8 @@
     "id": "schecter-sun-valley-super-shredder-fr-6-strings-electric-guitar",
     "name": "Schecter Sun Valley Super Shredder FR 6-Strings Electric Guitar- Gloss White",
     "brand": "Schecter",
-    "currentPrice": 70566,
-    "originalPrice": 70566,
+    "currentPrice": 83863,
+    "originalPrice": 83863,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-gloss-white-schecter-sun-valley-super-shredder-fr-6-strings-electric-guitar-gloss-white-1181674562_540x.jpg?v=1768292212&width=1500",
     "productUrl": "https://www.bajaao.com/products/schecter-sun-valley-super-shredder-fr-6-strings-electric-guitar?variant=42911445057715",
@@ -17315,6 +17343,10 @@
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 70566
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 83863
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -17345,8 +17377,8 @@
     "id": "schecter-sun-valley-super-shredder-fr-s-electric-guitar",
     "name": "Schecter Sun Valley Super Shredder FR S Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 84500,
-    "originalPrice": 84500,
+    "currentPrice": 109409,
+    "originalPrice": 109409,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-blue-reign-schecter-sun-valley-super-shredder-fr-s-electric-guitar-1181674596_540x.jpg?v=1768292481&width=1500",
     "productUrl": "https://www.bajaao.com/products/schecter-sun-valley-super-shredder-fr-s-electric-guitar?variant=42873450070195",
@@ -17355,6 +17387,10 @@
       {
         "date": "2026-02-28T12:01:52.394Z",
         "price": 84500
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 109409
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -19693,7 +19729,7 @@
     "originalPrice": 19485,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/fender-electric-guitars-bundles-2-tone-sunburst-fender-squier-debut-telecaster-electric-guitar-with-gigbag-polishing-cloth-picks-strap-tuner-ebook-1062464529_540x.jpg?v=1769755236&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar-bundle?variant=43888575938739",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-debut-telecaster-electric-guitar-bundle",
     "inStock": true,
     "priceHistory": [
       {
@@ -27048,8 +27084,8 @@
     "currentPrice": 37240,
     "originalPrice": 37240,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-28141045596_540x.jpg?v=1788160097&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar-1?variant=45922046279859",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-28141045681_540x.jpg?v=1788160097&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar-1?variant=45922046247091",
     "inStock": true,
     "priceHistory": [
       {
@@ -28457,8 +28493,8 @@
     "id": "schecter-reaper-7-multiscale-7-string-electric-guitar",
     "name": "Schecter Reaper 7 Multiscale 7 String Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 92254,
-    "originalPrice": 92254,
+    "currentPrice": 93101,
+    "originalPrice": 93101,
     "discountPercent": 0,
     "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-satin-charcoal-burst-schecter-reaper-7-multiscale-7-string-electric-guitar-1181693384_540x.jpg?v=1768105280&width=1500",
     "productUrl": "https://www.bajaao.com/products/schecter-reaper-7-multiscale-7-string-electric-guitar?variant=42133875916979",
@@ -28467,6 +28503,10 @@
       {
         "date": "2026-10-27T04:15:47.123Z",
         "price": 92254
+      },
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 93101
       }
     ],
     "firstSeen": "2026-10-27T04:15:47.123Z"
@@ -28632,5 +28672,23 @@
       }
     ],
     "firstSeen": "2026-10-29T04:57:21.093Z"
+  },
+  {
+    "id": "fender-squier-affinity-series-telecaster-thinline-6-string-electric-guitar",
+    "name": "Fender Squier Affinity Series Telecaster Thinline 6 String Electric Guitar",
+    "brand": "Fender",
+    "currentPrice": 36441,
+    "originalPrice": 36441,
+    "discountPercent": 0,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-AFFINITYTELETHINLINELTD-03782735651_540x.jpg?v=1793195538&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-affinity-series-telecaster-thinline-6-string-electric-guitar?variant=46314124640435",
+    "inStock": true,
+    "priceHistory": [
+      {
+        "date": "2026-10-30T04:57:11.981Z",
+        "price": 36441
+      }
+    ],
+    "firstSeen": "2026-10-30T04:57:11.981Z"
   }
 ]
