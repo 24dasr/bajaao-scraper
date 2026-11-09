@@ -572,8 +572,8 @@
     "currentPrice": 23560,
     "originalPrice": 23560,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373200557_c4faf390-bd78-428f-8115-25629ac5e3fa_540x.jpg?v=1779364204&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-fsr-squier-sonic-stratocaster-electric-guitar?variant=44607646073011",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0373200535_540x.jpg?v=1779364589&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-fsr-squier-sonic-stratocaster-electric-guitar?variant=44607646204083",
     "inStock": true,
     "priceHistory": [
       {
@@ -1362,8 +1362,8 @@
     "currentPrice": 11519,
     "originalPrice": 11519,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/vault-electric-guitars-transparent-black-walnut-vault-rg1-soloist-premium-electric-guitar-29904527425715_540x.jpg?v=1769755704&width=1500",
-    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=40337845420211",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/VAU-RG1ILTGB_540x.jpg?v=1769759100&width=1500",
+    "productUrl": "https://www.bajaao.com/products/vault-rg1rw-rg-style-electric-guitar?variant=40337850532019",
     "inStock": true,
     "priceHistory": [
       {
@@ -1413,11 +1413,11 @@
     "id": "prs-se-ch-44-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE CH 44 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 57000,
-    "originalPrice": 57000,
+    "currentPrice": 53900,
+    "originalPrice": 53900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202747274_540x.jpg?v=1768045432&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107496255667",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-ice-blue-mettalic-prs-se-ch-44-6-string-electric-guitar-with-gigbag-1202747273_540x.jpg?v=1768045420&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-ch-44-6-string-electric-guitar-with-gigbag?variant=45107511558323",
     "inStock": true,
     "priceHistory": [
       {
@@ -1451,6 +1451,10 @@
       {
         "date": "2026-10-30T04:57:11.981Z",
         "price": 57000
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 53900
       }
     ],
     "firstSeen": "2026-02-28T10:34:35.868Z"
@@ -3904,8 +3908,8 @@
     "currentPrice": 31692,
     "originalPrice": 31692,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378202557_540x.jpg?v=1772625967&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=44207644541107",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0378200502_540x.jpg?v=1772625967&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-electric-guitar-affinity-series-telecaster?variant=41381479907507",
     "inStock": true,
     "priceHistory": [
       {
@@ -5760,8 +5764,8 @@
     "currentPrice": 50160,
     "originalPrice": 50160,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0374005500_540x.jpg?v=1784361223&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-squier-classic-vibe-stratocaster-50s-electric-guitar?variant=41387425104051",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0374005540_540x.jpg?v=1784361864&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-squier-classic-vibe-stratocaster-50s-electric-guitar?variant=41387431887027",
     "inStock": true,
     "priceHistory": [
       {
@@ -6412,8 +6416,8 @@
     "currentPrice": 114000,
     "originalPrice": 114000,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0140550531_540x.jpg?v=1769755010&width=1500",
-    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=45144052400307",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/FEN-0140552550_540x.jpg?v=1769755010&width=1500",
+    "productUrl": "https://www.bajaao.com/products/fender-player-ii-telecaster-6-string-electric-guitar?variant=45144027398323",
     "inStock": true,
     "priceHistory": [
       {
@@ -7149,11 +7153,11 @@
     "id": "prs-se-mccarty-594-6-string-electric-guitar-with-gigbag",
     "name": "PRS SE McCarty 594 6 String Electric Guitar with Gigbag",
     "brand": "PRS",
-    "currentPrice": 95000,
-    "originalPrice": 95000,
+    "currentPrice": 99750,
+    "originalPrice": 99750,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-black-gold-sunburst-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-1211261799_540x.jpg?v=1769755339&width=1500",
-    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42290971345075",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/prs-electric-guitars-charcoal-prs-se-mccarty-594-6-string-electric-guitar-with-gigbag-1211243821_540x.jpg?v=1769755339&width=1500",
+    "productUrl": "https://www.bajaao.com/products/prs-se-mccarty-594-6-string-electric-guitar-with-gigbag?variant=42853530992819",
     "inStock": true,
     "priceHistory": [
       {
@@ -7235,6 +7239,10 @@
       {
         "date": "2026-10-30T04:57:11.981Z",
         "price": 95000
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 99750
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -13792,8 +13800,8 @@
     "currentPrice": 17337,
     "originalPrice": 17337,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-dark-wood-newen-stratocaster-6-string-electric-guitar-29030730039475_540x.jpg?v=1743432407&width=1500",
-    "productUrl": "https://www.bajaao.com/products/newen-stratocaster-6-string-electric-guitar?variant=40010069835955",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/newen-electric-guitars-black-newen-stratocaster-6-string-electric-guitar-29030701957299_540x.jpg?v=1743432372&width=1500",
+    "productUrl": "https://www.bajaao.com/products/newen-stratocaster-6-string-electric-guitar?variant=40010069770419",
     "inStock": true,
     "priceHistory": [
       {
@@ -14497,11 +14505,11 @@
     "id": "epiphone-les-paul-muse-6-strings-solid-body-electric-guitar",
     "name": "Epiphone Les Paul Muse 6-Strings Solid body Electric Guitar",
     "brand": "Epiphone",
-    "currentPrice": 55900,
-    "originalPrice": 55900,
+    "currentPrice": 56990,
+    "originalPrice": 56990,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-wanderlust-green-metallic-epiphone-les-paul-muse-6-strings-solid-body-electric-guitar-18832976445601_540x.jpg?v=1745661655&width=1500",
-    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-muse-6-strings-solid-body-electric-guitar?variant=36019628900513",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/epiphone-electric-guitars-purple-passion-metallic-epiphone-les-paul-muse-6-strings-solid-body-electric-guitar-18832976314529_540x.jpg?v=1745661581&width=1500",
+    "productUrl": "https://www.bajaao.com/products/epiphone-les-paul-muse-6-strings-solid-body-electric-guitar?variant=36019628703905",
     "inStock": true,
     "priceHistory": [
       {
@@ -14651,6 +14659,10 @@
       {
         "date": "2026-11-08T05:08:41.280Z",
         "price": 55900
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 56990
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -15279,11 +15291,11 @@
     "id": "gibson-les-paul-modern-lite-6-string-electric-guitar",
     "name": "Gibson Les Paul Modern Lite 6 String Electric Guitar",
     "brand": "Gibson",
-    "currentPrice": 148900,
-    "originalPrice": 148900,
+    "currentPrice": 147900,
+    "originalPrice": 147900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-tv-wheat-gibson-les-paul-modern-lite-6-string-electric-guitar-34466964570291_540x.jpg?v=1759396579&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451907251",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/gibson-electric-guitars-gold-mist-satin-gibson-les-paul-modern-lite-6-string-electric-guitar-34466928066739_540x.jpg?v=1759396579&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gibson-les-paul-modern-lite-6-string-electric-guitar?variant=43141451776179",
     "inStock": true,
     "priceHistory": [
       {
@@ -15429,6 +15441,10 @@
       {
         "date": "2026-11-08T05:08:41.280Z",
         "price": 148900
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 147900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -17373,11 +17389,11 @@
     "id": "schecter-nick-johnston-traditional-hss-electric-guitar",
     "name": "Schecter Nick Johnston Traditional HSS 6 String Electric Guitar",
     "brand": "Schecter",
-    "currentPrice": 79000,
-    "originalPrice": 79000,
+    "currentPrice": 79900,
+    "originalPrice": 79900,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-green-schecter-nick-johnston-traditional-hss-6-string-electric-guitar-29983690817715_540x.jpg?v=1743240769&width=1500",
-    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-hss-electric-guitar?variant=41580662751411",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/schecter-electric-guitars-atomic-snow-schecter-nick-johnston-traditional-hss-6-string-electric-guitar-31315131072691_540x.jpg?v=1736336928&width=1500",
+    "productUrl": "https://www.bajaao.com/products/schecter-nick-johnston-traditional-hss-electric-guitar?variant=41580739494067",
     "inStock": true,
     "priceHistory": [
       {
@@ -17395,6 +17411,10 @@
       {
         "date": "2026-11-04T05:27:56.086Z",
         "price": 79000
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 79900
       }
     ],
     "firstSeen": "2026-02-28T11:55:27.007Z"
@@ -24224,8 +24244,8 @@
     "currentPrice": 19731,
     "originalPrice": 19731,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/mooer-electric-guitars-surf-green-mooer-msc10-pro-6-string-electric-guitar-1159261247_540x.jpg?v=1768103228&width=1500",
-    "productUrl": "https://www.bajaao.com/products/mooer-msc10-pro-6-string-electric-guitar?variant=44641967964339",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/mooer-electric-guitars-black-mooer-msc10-pro-6-string-electric-guitar-1159261249_540x.jpg?v=1768103309&width=1500",
+    "productUrl": "https://www.bajaao.com/products/mooer-msc10-pro-6-string-electric-guitar?variant=44641967931571",
     "inStock": true,
     "priceHistory": [
       {
@@ -27276,8 +27296,8 @@
     "currentPrice": 23940,
     "originalPrice": 23940,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-STREAMLINERJETCLUB-2814102549_540x.jpg?v=1788428070&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar?variant=45945796821171",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-STREAMLINERJETCLUB-28141025061_540x.jpg?v=1786944517&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar?variant=45861779341491",
     "inStock": true,
     "priceHistory": [
       {
@@ -27468,8 +27488,8 @@
     "currentPrice": 37240,
     "originalPrice": 37240,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-STREAMLINERJET-2814104589_540x.jpg?v=1788428823&width=1500",
-    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar-1?variant=45945854656691",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/GRE-28141045681_540x.jpg?v=1788160097&width=1500",
+    "productUrl": "https://www.bajaao.com/products/gretsch-streamliner-jet-club-6-string-electric-guitar-1?variant=45922046247091",
     "inStock": true,
     "priceHistory": [
       {
@@ -28949,11 +28969,11 @@
     "id": "yamaha-pac012-electric-guitar",
     "name": "Yamaha Pacifica PAC012 Electric Guitar",
     "brand": "Yamaha",
-    "currentPrice": 19973,
-    "originalPrice": 19973,
+    "currentPrice": 19972,
+    "originalPrice": 19972,
     "discountPercent": 0,
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/yamaha-electric-guitars-red-metallic-yamaha-pacifica-solid-body-pac012-electric-guitar-31321106251955_540x.jpg?v=1687233652&width=1500",
-    "productUrl": "https://www.bajaao.com/products/yamaha-pac012-electric-guitar?variant=1270111959",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0657/6821/files/yamaha-electric-guitars-dark-metallic-blue-yamaha-pacifica-solid-body-pac012-electric-guitar-31321087738035_540x.jpg?v=1687233646&width=1500",
+    "productUrl": "https://www.bajaao.com/products/yamaha-pac012-electric-guitar?variant=15119677827",
     "inStock": true,
     "priceHistory": [
       {
@@ -28971,6 +28991,10 @@
       {
         "date": "2026-11-04T05:27:56.086Z",
         "price": 19973
+      },
+      {
+        "date": "2026-11-09T05:20:36.082Z",
+        "price": 19972
       }
     ],
     "firstSeen": "2026-10-28T04:45:04.531Z"
